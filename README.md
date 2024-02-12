@@ -5,6 +5,7 @@ Izin konfirmasi bu untuk yang kelola.php itu saya bikin dua karena yang:
 saya belum menemukan solusi yang efektif karena pernah saya coba data kehapus tapi masih ada notifikasi error
 
 Terkait pengerjaan projek hanya 3 orang yang terlibat dalam pengerjaan web
+
 Coding
 - Arifin
 
