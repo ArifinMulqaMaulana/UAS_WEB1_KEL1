@@ -7,8 +7,8 @@ saya belum menemukan solusi yang efektif karena pernah saya coba data kehapus ta
 Terkait pengerjaan projek hanya 3 orang yang terlibat dalam pengerjaan web
 
 Coding
-- Arifin
+- Arifin Mulqa Maulana (21552011425)
 
 Penambah berita
-- Febriani
-- Intan
+- Febriani (21552011244)
+- Intan Aprilia (21552011218)
